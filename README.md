@@ -9,7 +9,7 @@ This project is fully containerized and can be run using Docker Compose. Below a
 ### Services and Ports
 - **Client (`ts-client`)**
   - Runs the Vite preview server
-  - Exposes port **4173** (mapped to host)
+  - Exposes port **5173** (mapped to host)
 - **Server (`ts-server`)**
   - Runs the Express backend
   - Exposes port **5000** (mapped to host)
