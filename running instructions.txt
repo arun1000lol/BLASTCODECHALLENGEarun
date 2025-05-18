@@ -1,0 +1,4 @@
+npm run dev 
+ 
+OR if you have docker
+docker compose up --build
